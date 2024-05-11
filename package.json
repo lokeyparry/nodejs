@@ -1,0 +1,19 @@
+{
+  "name": "js-full-course",
+  "version": "1.0.0",
+  "description": "this is a full tutorial of node js with parvej ansari!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lokey Parry",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0"
+  }
+}
